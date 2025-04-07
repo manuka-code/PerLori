@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const secondsElement = document.getElementById('seconds');
 
   // Set the target date (April 15, 2025, 00:00:00 UTC)
-  const targetDate = new Date('2025-04-14T17:15:00Z').getTime();
+  const targetDate = new Date('2025-04-14T15:15:00Z').getTime();
 
   function updateCountdown() {
       const now = new Date().getTime();
