@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: serif;
   background-color: #f4f4f4;
   display: flex;
   justify-content: center;
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #d0ece7;
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
