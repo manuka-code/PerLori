@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
           hoursElement.textContent = '00';
           minutesElement.textContent = '00';
           secondsElement.textContent = '00';
-          alert("It's party time!"); // You can customize this message
+          alert("Aiuto sono intrappolato nel codice di manuka-code, AHHHHHHHHHHHHHHAHAHHAHAHAHHHHHAHHHAHHH=H!=782913826sds192dsajiv2837"); // You can customize this message
           return;
       }
 
